@@ -23,7 +23,7 @@ function HeroSection() {
       <div
         className="hero h-[540px] "
         style={{
-          backgroundImage: " url(/kopii.jpg)",
+          backgroundImage: " url(kopii.jpg)",
         }}
       >
         <div className="hero-overlay"></div>
