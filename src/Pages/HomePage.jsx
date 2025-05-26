@@ -23,7 +23,7 @@ function HeroSection() {
       <div
         className="hero h-[540px] "
         style={{
-          backgroundImage: " url(src/assets/kopii.jpg)",
+          backgroundImage: " url(/kopii.jpg)",
         }}
       >
         <div className="hero-overlay"></div>
@@ -51,7 +51,7 @@ function Section() {
       <div className="hero min-h-screen">
         <div className="hero-content flex-col lg:flex-row-reverse">
           <img
-            src="src\assets\alat.jpg"
+            src="\alat.jpg"
             className="max-w-2xl rounded-lg shadow-2xl"
           />
           <div>

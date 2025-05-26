@@ -22,7 +22,7 @@ function HeroSection() {
       <div
         className="hero h-[540px] "
         style={{
-          backgroundImage: "url(src/assets/product.jpg)",
+          backgroundImage: "url(/product.jpg)",
         }}
       >
         <div className="hero-overlay"></div>
@@ -53,7 +53,7 @@ function Section() {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="src\assets\kopi1.jpeg"
+                src="\kopi1.jpeg"
                 alt="Shoes"
               />
             </figure>
@@ -72,7 +72,7 @@ function Section() {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="src\assets\kopi1.jpeg"
+                src="\kopi1.jpeg"
                 alt="Shoes"
               />
             </figure>
@@ -91,7 +91,7 @@ function Section() {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="src\assets\kopi1.jpeg"
+                src="\kopi1.jpeg"
                 alt="Shoes"
               />
             </figure>
@@ -114,7 +114,7 @@ function Section() {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="src\assets\kopi1.jpeg"
+                src="\kopi1.jpeg"
                 alt="Shoes"
               />
             </figure>
@@ -133,7 +133,7 @@ function Section() {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="src\assets\kopi1.jpeg"
+                src="\kopi1.jpeg"
                 alt="Shoes"
               />
             </figure>
@@ -152,7 +152,7 @@ function Section() {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="src\assets\kopi1.jpeg"
+                src="\kopi1.jpeg"
                 alt="Shoes"
               />
             </figure>
