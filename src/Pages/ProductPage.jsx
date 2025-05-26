@@ -72,7 +72,7 @@ function Section() {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="\kopi1.jpeg"
+                src="/kopi1.jpeg"
                 alt="Shoes"
               />
             </figure>
@@ -91,7 +91,7 @@ function Section() {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="\kopi1.jpeg"
+                src="/kopi1.jpeg"
                 alt="Shoes"
               />
             </figure>
@@ -114,7 +114,7 @@ function Section() {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="\kopi1.jpeg"
+                src="/kopi1.jpeg"
                 alt="Shoes"
               />
             </figure>
@@ -133,7 +133,7 @@ function Section() {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="\kopi1.jpeg"
+                src="/kopi1.jpeg"
                 alt="Shoes"
               />
             </figure>
@@ -152,7 +152,7 @@ function Section() {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="\kopi1.jpeg"
+                src="/kopi1.jpeg"
                 alt="Shoes"
               />
             </figure>
