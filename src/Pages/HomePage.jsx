@@ -10,7 +10,7 @@ function HomePage() {
       <HeroSection />
       <Section />
       <Section2 />
-      <Footer/>
+      <Footer />
     </>
   );
 }
@@ -21,16 +21,16 @@ function HeroSection() {
   return (
     <>
       <div
-        className="hero h-[540px] "
+        className="hero h-[800px] "
         style={{
-          backgroundImage: " url(kopii.jpg)",
+          backgroundImage: " url(icecream.jpg)",
         }}
       >
         <div className="hero-overlay"></div>
         <div className="hero-content text-neutral-content text-center">
           <div className="max-w-3xl">
             <h1 className="mb-5 text-6xl font-bold text-amber-100">
-              Aroma Sriwijaya
+              Chill & Melt
             </h1>
             <p className="mb-5 text-2xl text-amber-100 ">
               Premium Indonesian Coffee Beans for Global Markets
@@ -50,10 +50,7 @@ function Section() {
     <>
       <div className="hero min-h-screen">
         <div className="hero-content flex-col lg:flex-row-reverse">
-          <img
-            src="\alat.jpg"
-            className="max-w-2xl rounded-lg shadow-2xl"
-          />
+          <img src="\alat.jpg" className="max-w-2xl rounded-lg shadow-2xl" />
           <div>
             <h1 className="text-5xl font-bold">
               Exceptional Coffee Beans from the Heart of Indonesia
@@ -104,9 +101,6 @@ function Section2() {
               </div>
             </div>
           </div>
-
-
-          
         </div>
       </div>
     </>

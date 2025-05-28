@@ -1,5 +1,5 @@
 import React from "react";
-import { PiCoffeeFill } from "react-icons/pi";
+import { PiIceCreamThin } from "react-icons/pi";
 import { Link } from "react-router-dom";
 
 function NavBar() {
@@ -44,8 +44,8 @@ function NavBar() {
             </ul>
           </div>
           <Link className="btn btn-ghost text-xl">
-            <PiCoffeeFill className="text-amber-800" />
-            Aroma{" "}
+            <PiIceCreamThin className="text-amber-800" />
+            Chill & Melt{" "}
           </Link>
         </div>
         <div className="navbar-center hidden lg:flex">
